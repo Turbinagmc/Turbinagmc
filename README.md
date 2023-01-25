@@ -23,7 +23,8 @@
   <img align="center" alt="Rafa-Python" height="30" width="60" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="Rafa-Csharp" height="30" width="80" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   
-  <img align="right" alt="Rafa-pic" height="130" style="border-radius:50px;" src="https://images.squarespace-cdn.com/content/v1/5858564c2e69cfd1ae452a43/1554754230187-GVLBCQP3FMFLZOT6UZ89/MONKEY+WALK-RUXLY.gif">
-</div>
 
  ![Snake animation](https://github.com/Turbinagmc/Turbinagmc/blob/output/github-contribution-grid-snake.svg)
+ 
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://images.squarespace-cdn.com/content/v1/5858564c2e69cfd1ae452a43/1554754230187-GVLBCQP3FMFLZOT6UZ89/MONKEY+WALK-RUXLY.gif">
+</div>
