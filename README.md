@@ -13,17 +13,46 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turbinagmc&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="-Js" height="30" width="60" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="-Ts" height="30" width="60" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="-React" height="30" width="60" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="-HTML" height="30" width="60" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="-CSS" height="30" width="60" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img align="center" alt="-Python" height="30" width="60" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img align="center" alt="-Csharp" height="30" width="80" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://images.squarespace-cdn.com/content/v1/5858564c2e69cfd1ae452a43/1554754230187-GVLBCQP3FMFLZOT6UZ89/MONKEY+WALK-RUXLY.gif">
-</div>
-
  ![Snake animation](https://github.com/Turbinagmc/Turbinagmc/blob/output/github-contribution-grid-snake.svg)
+ 
+
+## 🚀 Sobre mim
+Eu sou um desenvolvedor front/end.
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lima-40a59a124/)
+
+
+## 🛠 Habilidades
+Javascript, HTML, CSS, c, c++, PHP, Figma, CANVA, JAVA, PYTHON, MAYA, Android Studio, 
+
+
+
+
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/Turbinagmc/HTML-e-CSS/main/site%20portifolio%20(1).jpg)
+
+![App Screenshot](https://raw.githubusercontent.com/Turbinagmc/HTML-e-CSS/main/site%20portifolio%20(4).jpg)
+
+um site responsivo feito em html e CSS
+
+![App Screenshot](https://raw.githubusercontent.com/Turbinagmc/HTML-e-CSS/main/pokedex.png)
+
+uma pokedex usada com api para puxar nomes e imagens de pokemons
+
+![App Screenshot](https://raw.githubusercontent.com/Turbinagmc/projeto-android-studio/main/SPRiYllrBfdopp42bG1a9t7ODkwpR6JjqPwLre8YJqg%3D_plaintext_638082633433817604.jpg)
+
+um app feito no android studioo
+
+![App Screenshot](https://raw.githubusercontent.com/Turbinagmc/Figma/Turbinagmc/devGabriel/Screenshot_194.png)
+
+umas telas feitas no Figma
+
+![App Screenshot](https://raw.githubusercontent.com/Turbinagmc/Figma/Turbinagmc/devGabriel/Screenshot_27.png)
+
+uma dashboard criada no figma
+
+
