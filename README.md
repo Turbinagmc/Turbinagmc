@@ -37,19 +37,20 @@ Javascript, HTML, CSS, c, c++, PHP, Figma, CANVA, JAVA, PYTHON, MAYA, Android St
 
 ![App Screenshot](https://raw.githubusercontent.com/Turbinagmc/HTML-e-CSS/main/site%20portifolio%20(4).jpg)
 
-um site responsivo feito em html e CSS
+Um site feito utilizando HTML e CSS
 
 ![App Screenshot](https://raw.githubusercontent.com/Turbinagmc/HTML-e-CSS/main/pokedex.png)
 
-uma pokedex usada com api para puxar nomes e imagens de pokemons
+Um Pokédex utilizando apenas HTML, CSS e JavaScript, com uma API Rest
 
 ![App Screenshot](https://raw.githubusercontent.com/Turbinagmc/projeto-android-studio/main/SPRiYllrBfdopp42bG1a9t7ODkwpR6JjqPwLre8YJqg%3D_plaintext_638082633433817604.jpg)
 
-um app feito no android studioo
+Um Projeto feito em Android Studio, utilizando "java" desde o design até a parte tecnica foram criadas para fazer um banco de dados para 
+ animais perdidos
 
 ![App Screenshot](https://raw.githubusercontent.com/Turbinagmc/Figma/Turbinagmc/devGabriel/Screenshot_194.png)
 
-umas telas feitas no Figma
+mobile app ui feito no figma, utilizando de diversas estrategias para o usuario
 
 ![App Screenshot](https://raw.githubusercontent.com/Turbinagmc/Figma/Turbinagmc/devGabriel/Screenshot_27.png)
 
