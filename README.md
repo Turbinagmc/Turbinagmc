@@ -55,6 +55,7 @@ mobile app ui feito no figma, utilizando de diversas estrategias para o usuario
 ![App Screenshot](https://raw.githubusercontent.com/Turbinagmc/Figma/Turbinagmc/devGabriel/Screenshot_27.png)
 
 uma dashboard criada no figma
+ 
 
  ![App Screenshot](hhttps://raw.githubusercontent.com/Turbinagmc/HTML-CSS-e-JavaScript/main/Screenshot_3.png)
  
